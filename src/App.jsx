@@ -3,7 +3,7 @@
 export default function App() {
 
   return (
-<div className="flex items-center justify-center w-[1440px] h-[873px] top-[-437px] left-[-720px] gap-0 ">
+<div className="flex items-center justify-center w-[1440px] h-[873px] top-[-437px] left-[-720px] gap-0 overflow-hidden ">
   <div className="w-[708px] h-[594px] top-[200px] absolute   mt-[150px]">
 <img src="./images/newlogin.png"></img>
 <input className="w-[595.3px] h-[58.85px] top-[149.01px] left-[57.51px] gap-0 border border-opacity-0" type="text" placeholder="Username" />
